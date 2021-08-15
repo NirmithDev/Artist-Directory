@@ -1,4 +1,6 @@
-# Learnangular5
+# Artist Directory
+
+## Credits : Ray Villalobos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
 
